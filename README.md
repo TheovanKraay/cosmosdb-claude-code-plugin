@@ -171,15 +171,6 @@ To regenerate skills after the upstream agent-kit updates:
 
 - `/agents azure-cosmosdb:cosmosdb-expert` — Start a conversation with the Cosmos DB expert
 
-## Submitting to Claude Code Marketplace
-
-To submit this plugin to the official Anthropic marketplace:
-
-1. **Claude.ai**: Go to [claude.ai/settings/plugins/submit](https://claude.ai/settings/plugins/submit)
-2. **Console**: Go to [platform.claude.com/plugins/submit](https://platform.claude.com/plugins/submit)
-
-Provide the GitHub repository URL and plugin details from `plugin.json`.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
